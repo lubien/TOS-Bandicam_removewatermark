@@ -8,6 +8,10 @@ Edit addonloader.lua and add the below line under --[[ADDONS]]:
 
 dofile("../addons/removewatermark/removewatermark.lua");
 
+
+
+![alt text](http://i.imgur.com/b9zlXtC.png "Recording stopped!")
+
 ![alt text](http://i.imgur.com/MEoBgRf.jpg "Recording stopped!")
 
 
