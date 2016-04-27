@@ -14,3 +14,5 @@ dofile("../addons/removewatermark/removewatermark.lua");
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=G0yBX_X9Ip0
 " target="_blank"><img src="http://img.youtube.com/vi/G0yBX_X9Ip0/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+Thank you to excrulon's tutorial
