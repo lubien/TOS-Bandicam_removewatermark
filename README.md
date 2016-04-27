@@ -1,4 +1,4 @@
-# TOS-Bandicam_removewatermark
+# TOS-Bandicam_removewatermark [![Addon Safe](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-safe.svg)](https://github.com/lubien/awesome-tos#addons-badges)
 Removes the watermark from the in-game Bandicam feature.  Press F12 to start recording, and F12 again to stop. The stop message won't be recorded.
 
 Installation:
